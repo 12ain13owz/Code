@@ -1,0 +1,20 @@
+.header {
+  text-align: center;
+  font-size: 32px;
+  margin-top: 12px;
+}
+
+.content {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0px 0px 15px 0px #D6D6D6;
+}
+
+.deteil {
+  text-align: left;
+  padding-left: 20px;
+}
