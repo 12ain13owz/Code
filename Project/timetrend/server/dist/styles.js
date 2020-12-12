@@ -58,8 +58,8 @@ ___CSS_LOADER_EXPORT___.push([module.i, "* {\n  box-sizing: border-box;\n}\n\nht
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\src\timetrend\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"8jWO");
-module.exports = __webpack_require__(/*! D:\src\timetrend\src\styles.scss */"+EN/");
+__webpack_require__(/*! D:\Code\Project\timetrend\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"8jWO");
+module.exports = __webpack_require__(/*! D:\Code\Project\timetrend\src\styles.scss */"+EN/");
 
 
 /***/ }),
