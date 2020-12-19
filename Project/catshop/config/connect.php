@@ -1,8 +1,8 @@
 <?php
   $host = "localhost";
-  $user = "u939882851_6124414011";
-  $pass = "Pw6124414011";
-  $dbname = 'u939882851_6124414011';
+  $user = "root";
+  $pass = "12345678";
+  $dbname = 'catshop';
   $conn = mysqli_connect($host, $user, $pass, $dbname);
 
   if (!$conn) {
