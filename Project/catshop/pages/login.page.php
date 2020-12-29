@@ -9,6 +9,5 @@
     <button class="btn btn-lg btn-primary btn-block" type="submit">
       Log In
     </button>
-    <p class="mt-5 mb-3 text-muted">© 2020 Cat Shop. All Rights Reserved.</p>
   </form>
 </div>

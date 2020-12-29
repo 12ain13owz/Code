@@ -12,7 +12,8 @@
   $type = $_POST['type'];  
   
   if ($accid) {
-    $sql = "UPDATE account SET username='$username', password='$password', firstname='$firstname', lastname='$lastname', type='$type' WHERE id = '$accid'";
+    $pass = md5($password);
+    $sql = "UPDATE account SET username='$username', password='$pass', firstname='$firstname', lastname='$lastname', type='$type' WHERE id = '$accid'";
     $qry = mysqli_query($conn, $sql);
 
     if ($qry) {
