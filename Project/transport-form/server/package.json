@@ -1,6 +1,6 @@
 {
   "name": "trans-sport-form",
-  "version": "1.0.0",
+  "version": "1.0.0 / node v.12.19.0",
   "description": "",
   "main": "index.js",
   "scripts": {
